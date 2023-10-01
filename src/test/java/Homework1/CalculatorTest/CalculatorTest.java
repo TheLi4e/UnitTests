@@ -1,6 +1,6 @@
-package CalculatorTest;
+package Homework1.CalculatorTest;
 
-import Task7.Calculator;
+import Homework1.Task7.Calculator;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

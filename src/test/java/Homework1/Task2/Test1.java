@@ -1,4 +1,4 @@
-package Task2;
+package Homework1.Task2;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;

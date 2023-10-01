@@ -1,4 +1,4 @@
-package Task3;
+package Homework1.Task3;
 
 import org.junit.jupiter.api.Test;
 

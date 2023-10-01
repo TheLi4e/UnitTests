@@ -1,5 +1,4 @@
-package Task6;
-import org.junit.jupiter.api.BeforeAll;
+package Homework1.Task6;
 import org.junit.jupiter.api.Test;
 import java.util.ArrayList;
 import java.util.Arrays;
