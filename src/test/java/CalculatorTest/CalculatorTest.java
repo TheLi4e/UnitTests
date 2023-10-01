@@ -8,9 +8,8 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 
 public class CalculatorTest {
 
-    /**
-     * Утверждение расчета суммы покупок с применением скидки
-     */
+    // Утверждение расчета суммы покупок с применением скидки
+
     @Test
     public void calculatingDiscountShouldCorrect(){
         double result = 4500.0;
@@ -18,12 +17,11 @@ public class CalculatorTest {
         assertEquals(result, resultTest, "Некорректное вычисление скидки");
     }
 
-    // Тестирование исключений
 
 
-    /**
-     * Исключение сумма покупок меньше рубля
-     */
+
+    //  Исключение сумма покупок меньше рубля
+
     @Test
     public void purchaseAmountCannotLessOne(){
         String messageException = "Неправильная сумма покупки";
@@ -32,9 +30,8 @@ public class CalculatorTest {
         assertEquals(messageException, exception.getMessage());
     }
 
-    /**
-     * Исключение процент скидки меньше нуля
-     */
+    // Исключение процент скидки меньше нуля
+
     @Test
     public void discountAmountCannotLessZero(){
         String message = "Неправильный размер скидки";
