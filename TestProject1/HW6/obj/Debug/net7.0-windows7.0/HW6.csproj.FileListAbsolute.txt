@@ -1,0 +1,14 @@
+C:\Users\li4e9\source\repos\TestProject1\HW6\bin\Debug\net7.0-windows7.0\HW6.exe
+C:\Users\li4e9\source\repos\TestProject1\HW6\bin\Debug\net7.0-windows7.0\HW6.deps.json
+C:\Users\li4e9\source\repos\TestProject1\HW6\bin\Debug\net7.0-windows7.0\HW6.runtimeconfig.json
+C:\Users\li4e9\source\repos\TestProject1\HW6\bin\Debug\net7.0-windows7.0\HW6.dll
+C:\Users\li4e9\source\repos\TestProject1\HW6\bin\Debug\net7.0-windows7.0\HW6.pdb
+C:\Users\li4e9\source\repos\TestProject1\HW6\obj\Debug\net7.0-windows7.0\HW6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\li4e9\source\repos\TestProject1\HW6\obj\Debug\net7.0-windows7.0\HW6.AssemblyInfoInputs.cache
+C:\Users\li4e9\source\repos\TestProject1\HW6\obj\Debug\net7.0-windows7.0\HW6.AssemblyInfo.cs
+C:\Users\li4e9\source\repos\TestProject1\HW6\obj\Debug\net7.0-windows7.0\HW6.csproj.CoreCompileInputs.cache
+C:\Users\li4e9\source\repos\TestProject1\HW6\obj\Debug\net7.0-windows7.0\HW6.dll
+C:\Users\li4e9\source\repos\TestProject1\HW6\obj\Debug\net7.0-windows7.0\refint\HW6.dll
+C:\Users\li4e9\source\repos\TestProject1\HW6\obj\Debug\net7.0-windows7.0\HW6.pdb
+C:\Users\li4e9\source\repos\TestProject1\HW6\obj\Debug\net7.0-windows7.0\HW6.genruntimeconfig.cache
+C:\Users\li4e9\source\repos\TestProject1\HW6\obj\Debug\net7.0-windows7.0\ref\HW6.dll
